@@ -1,0 +1,29 @@
+🔹 What we “built”
+
+A cloud-ready REST API system (your microservices)
+
+🔹 Prompt 1
+Generate a microservices architecture with Product Service and Order Service using Spring Boot.
+🔹 Prompt 2
+Add service discovery using Eureka and API Gateway routing.
+🔹 Prompt 3
+Add CI/CD pipeline using GitHub Actions for build and testing.
+🔹 What improved
+Step	        Improvement
+Prompt 1	Basic microservices
+Prompt 2	Scalable architecture
+Prompt 3	Automation (CI/CD)
+🔹 Final Result
+
+✔ Microservices system
+✔ API Gateway
+✔ Eureka
+✔ CI/CD pipeline
+
+🔹 Evaluation (VERY IMPORTANT)
+
+👉 AI output was:
+
+✔ Fast
+✔ Mostly correct
+❌ Needed manual fixes

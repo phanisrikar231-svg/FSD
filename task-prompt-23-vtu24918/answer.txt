@@ -1,0 +1,25 @@
+🔹 What we “did”
+
+You used a GenAI tool (like ChatGPT) to generate backend code.
+
+🔹 Example Prompt
+
+Use this in your file:
+
+Generate a Spring Boot REST API for Product Management with CRUD operations, JSON responses, and basic validation.
+🔹 Output (what AI gave)
+   Controller class
+   Service class
+   Model class
+🔹 Improvement Prompt (important)
+Improve the API by adding exception handling and validation using @Valid and a global exception handler.
+🔹 What changed
+
+✔ Added validation
+✔ Added error handling
+✔ Cleaner responses
+
+🔹 Result
+
+👉 AI helped speed up development
+👉 Reduced manual coding effort
